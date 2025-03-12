@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tina/Pictures/chimmie_fedi-wallpaper.png",
+    "alpha": "100",
+    "special": {
+        "background": "#151721",
+        "foreground": "#ecdff0",
+        "cursor": "#ecdff0"
+    },
+    "colors": {
+        "color0": "#151721",
+        "color1": "#bc34e2",
+        "color2": "#b849e5",
+        "color3": "#cb65e9",
+        "color4": "#d16cea",
+        "color5": "#d895f0",
+        "color6": "#e0b7f4",
+        "color7": "#ecdff0",
+        "color8": "#a59ca8",
+        "color9": "#bc34e2",
+        "color10": "#b849e5",
+        "color11": "#cb65e9",
+        "color12": "#d16cea",
+        "color13": "#d895f0",
+        "color14": "#e0b7f4",
+        "color15": "#ecdff0"
+    }
+}
