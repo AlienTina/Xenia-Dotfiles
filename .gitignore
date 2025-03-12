@@ -8,4 +8,6 @@
 !rofi/
 !waybar/*
 !waybar/
+!wal/
+!wal/*
 !.gitignore
