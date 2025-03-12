@@ -1,7 +1,11 @@
 *
 
-!./hypr/*
-!./fastfetch/*
-!./rofi/*
-!./waybar/*
+!hypr/
+!hypr/*
+!fastfetch/*
+!fastfetch/
+!rofi/*
+!rofi/
+!waybar/*
+!waybar/
 !.gitignore
